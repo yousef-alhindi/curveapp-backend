@@ -1,0 +1,33 @@
+@media (max-width:1400px){
+
+}
+
+
+@media (max-width:1199px){
+    
+}
+
+@media (max-width:991px){
+    
+}
+
+
+@media (max-width:767px){
+    .business-row .me-3{
+        margin-right:0px!important;
+    }
+
+    .business-row .ms-3{
+        margin-left:0px!important;
+    }
+}
+
+/* 
+1200 check x 1400 media
+992 check x 1199 media
+768 check x 991 media
+601 check x 767 media
+320 check x 600 media 
+*/
+
+

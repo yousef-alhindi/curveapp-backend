@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="31" viewBox="0 0 34 31">
+  <g id="profle_sidemenu_order" transform="translate(-94.261 -306.377)">
+    <circle id="Ellipse_11126" data-name="Ellipse 11126" cx="15.5" cy="15.5" r="15.5" transform="translate(97.261 306.377)" fill="#dcf9ee"/>
+    <g id="Group_149332" data-name="Group 149332" transform="translate(93.262 307.245)">
+      <path id="Path_317392" data-name="Path 317392" d="M26.408,11.381,22.737,8.287V3.9a.821.821,0,0,0-.821-.822h-2.6a.821.821,0,0,0-.822.822V4.71l-3.9-3.291a1.051,1.051,0,0,0-1.442,0L1.338,11.381a1.059,1.059,0,0,0,.722,1.835H3.768V25.534A1.065,1.065,0,0,0,4.83,26.595H22.916a1.064,1.064,0,0,0,1.062-1.062V13.218h1.708a1.061,1.061,0,0,0,.722-1.835ZM14.674,22.737a1.152,1.152,0,0,1-1.857,0c-1.464-2.016-4.159-5.984-4.159-8.02a5.092,5.092,0,0,1,10.185,0C18.843,16.753,16.148,20.722,14.674,22.737Z" transform="translate(0)" fill="#33bd8c"/>
+      <circle id="Ellipse_13297" data-name="Ellipse 13297" cx="1.978" cy="1.978" r="1.978" transform="translate(11.771 12.138)" fill="#33bd8c"/>
+    </g>
+  </g>
+</svg>

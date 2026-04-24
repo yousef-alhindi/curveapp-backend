@@ -1,0 +1,9 @@
+node_modules
+/node_modules
+.env
+.env.local
+.env.staging
+
+# Firebase service account keys
+app/config/*firebase*adminsdk*.json
+app/config/*.json

@@ -1,0 +1,26 @@
+Application Work Flow	Curve_user_web_Flow (adobe.com)
+
+User App XD Link :	https://xd.adobe.com/view/c58bf955-d59e-4c65-a567-057d01349462-90d8/
+User Website XD Link :	https://xd.adobe.com/view/04872d19-45f7-45fa-a1ca-bbbc01e4833a-51d4/
+Restaurant Website XD Link :	https://xd.adobe.com/view/369451b7-c695-4d7c-bf82-57f462867f3c-63c7/
+Supplement & Grocery Seller Website XD Link :	https://xd.adobe.com/view/bf4afd35-06a7-4d95-94cb-e7c979249250-ea19/?fullscreen
+GYM Website XD Link :	https://xd.adobe.com/view/f622d065-58b3-4745-ba0a-ff84e642f75a-a371/
+
+Curve Delivery App Design	Curve Delivery App Design (adobe.com)
+
+Admin Panel Wireframe :	https://drive.google.com/file/d/19_Z2nxgs2R6hhbNpRxa1O6iiC0Hh7WW6/view?usp=sharing
+Delivery App XD :	https://xd.adobe.com/view/d67bf8d3-4de9-4607-90fb-e14c1cc63bf7-8328/
+Requirement Understanding Document :	https://drive.google.com/file/d/1fdf-ev1bQHEkcpf0ct49YzmAKIt5HFo3/view?usp=drive_link
+Milestones Plan	: https://drive.google.com/file/d/1fDWLuCyog8QNQKs9eeO-fIq3WePgS3Wp/view?usp=sharing
+
+
+
+---------------------- WEB URLS ----------------------------- 
+
+Admin : https://www.curveapp.co/admin-panel/login
+
+Restaurant : https://www.curveapp.co/restaurant-panel/login
+
+user :  https://www.curveapp.co/user-panel/home
+
+supplement web : https://www.curveapp.co/supplement-panel/    
